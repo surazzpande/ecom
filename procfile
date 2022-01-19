@@ -1,0 +1,1 @@
+web: gunicorn Ehatbazzar_intern.wsgi --log-file=-
